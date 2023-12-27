@@ -1,7 +1,7 @@
 # final_proj
 
 ### Demo
-![](https://drive.google.com/file/d/16xmJPq1t0DT5owzz0XHODbY9EigTs3ow/view?usp=sharing)
+
 
 ## Getting Started
 
